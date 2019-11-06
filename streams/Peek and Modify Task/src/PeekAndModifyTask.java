@@ -7,7 +7,7 @@ class PeekAndModifyTask {
   public static List<MVP> giveRaises() {
     Stream<MVP> streamMVPsData = MVP.mostValuablePlayers.stream();
     return streamMVPsData
-        .peek(mvp -> mvp.setSalary(mvp.getSalary() +  5000))
+//        .peek()
         .collect(Collectors.toList());
   }
 }

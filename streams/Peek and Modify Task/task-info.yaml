@@ -5,8 +5,8 @@ files:
 - name: src/PeekAndModifyTask.java
   visible: true
   placeholders:
-  - offset: 261
-    length: 8
+  - offset: 263
+    length: 6
     placeholder_text: /*TODO*/
 - name: src/MVP.java
   visible: true

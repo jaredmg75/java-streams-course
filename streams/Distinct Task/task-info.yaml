@@ -3,15 +3,11 @@ files:
 - name: src/DistinctTask.java
   visible: true
   placeholders:
-  - offset: 210
+  - offset: 218
+    length: 5
+    placeholder_text: /*TODO*/
+  - offset: 235
     length: 8
     placeholder_text: /*TODO*/
-  - offset: 237
-    length: 8
-    placeholder_text: /*TODO*/
-- name: src/Task.java
-  visible: true
 - name: src/MVP.java
   visible: true
-- name: test/Test.java
-  visible: false

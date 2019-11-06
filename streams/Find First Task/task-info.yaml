@@ -5,10 +5,10 @@ files:
 - name: src/FindFirstTask.java
   visible: true
   placeholders:
-  - offset: 177
-    length: 38
+  - offset: 179
+    length: 9
     placeholder_text: /*TODO*/
-  - offset: 224
+  - offset: 197
     length: 12
     placeholder_text: /*TODO*/
 - name: src/MVP.java

@@ -3,7 +3,7 @@ files:
 - name: src/SkipTask.java
   visible: true
   placeholders:
-  - offset: 208
+  - offset: 210
     length: 8
     placeholder_text: /*TODO*/
 - name: test/SkipTest.java

@@ -5,7 +5,7 @@ class FilterTask {
 
   public static List<MVP> getAllSalariesAbove500k() {
     return MVP.mostValuablePlayers.stream()
-        .filter(mvp -> mvp.getSalary() > 500_000)
+//        .filter()
         .collect(Collectors.toList());
   }
 }

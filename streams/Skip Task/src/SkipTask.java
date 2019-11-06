@@ -8,7 +8,7 @@ class SkipTask {
 
     return MVP.mostValuablePlayers
         .stream()
-        .skip(10)
+//        .skip(10)
         .collect(toList());
   }
 }

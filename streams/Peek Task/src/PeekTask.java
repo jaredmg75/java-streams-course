@@ -7,7 +7,7 @@ class PeekTask {
   public static List<MVP> printAllSalaries() {
     Stream<MVP> streamUsersData = MVP.mostValuablePlayers.stream();
     return streamUsersData
-        .peek(mvp -> System.out.println(mvp.getSalary()))
+//        .peek()
         .collect(Collectors.toList());
 
   }
