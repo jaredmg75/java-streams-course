@@ -1,0 +1,15 @@
+type: edu
+files:
+- name: src/MapTask.java
+  visible: true
+  placeholders:
+  - offset: 215
+    length: 8
+    placeholder_text: /*TODO*/
+  - offset: 332
+    length: 8
+    placeholder_text: /*TODO*/
+- name: test/MapTest.java
+  visible: false
+- name: src/MVP.java
+  visible: true

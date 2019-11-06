@@ -1,0 +1,16 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+- name: test/FilterTest.java
+  visible: false
+- name: src/MVP.java
+  visible: true
+- name: src/FilterTask.java
+  visible: true
+  placeholders:
+  - offset: 186
+    length: 8
+    placeholder_text: /*TODO*/
+- name: test/Test.java
+  visible: false

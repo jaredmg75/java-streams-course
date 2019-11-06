@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: src/SkipTask.java
+  visible: true
+  placeholders:
+  - offset: 208
+    length: 8
+    placeholder_text: /*TODO*/
+- name: test/SkipTest.java
+  visible: false
+- name: src/MVP.java
+  visible: true

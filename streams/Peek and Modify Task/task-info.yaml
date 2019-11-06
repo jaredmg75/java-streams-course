@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: test/PeakAndModifyTest.java
+  visible: false
+- name: src/PeekAndModifyTask.java
+  visible: true
+  placeholders:
+  - offset: 261
+    length: 8
+    placeholder_text: /*TODO*/
+- name: src/MVP.java
+  visible: true

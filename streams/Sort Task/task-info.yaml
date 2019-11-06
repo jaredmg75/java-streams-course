@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+- name: src/SortTask.java
+  visible: true
+  placeholders:
+  - offset: 194
+    length: 8
+    placeholder_text: /*TODO*/
+  - offset: 221
+    length: 8
+    placeholder_text: /*TODO*/
+- name: test/SortTest.java
+  visible: false
+- name: src/MVP.java
+  visible: true
+- name: test/Test.java
+  visible: false

@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: test/PeekTest.java
+  visible: false
+- name: src/PeekTask.java
+  visible: true
+  placeholders:
+  - offset: 260
+    length: 49
+    placeholder_text: /*TODO*/
+- name: src/MVP.java
+  visible: true

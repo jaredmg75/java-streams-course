@@ -1,0 +1,15 @@
+type: edu
+files:
+- name: test/FindFirstTest.java
+  visible: false
+- name: src/FindFirstTask.java
+  visible: true
+  placeholders:
+  - offset: 177
+    length: 38
+    placeholder_text: /*TODO*/
+  - offset: 224
+    length: 12
+    placeholder_text: /*TODO*/
+- name: src/MVP.java
+  visible: true

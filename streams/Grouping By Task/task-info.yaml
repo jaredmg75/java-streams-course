@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: test/GroupingByTest.java
+  visible: false
+- name: src/GroupingByTask.java
+  visible: true
+  placeholders:
+  - offset: 240
+    length: 8
+    placeholder_text: /*TODO*/
+- name: src/MVP.java
+  visible: true

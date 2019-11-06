@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: src/IterateTask.java
+  visible: true
+  placeholders:
+  - offset: 439
+    length: 8
+    placeholder_text: /*TODO*/
+- name: test/IterateTest.java
+  visible: false
+- name: src/MVP.java
+  visible: true
